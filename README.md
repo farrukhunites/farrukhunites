@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Farrukh Umair</h1>
-<h3 align="center">Aspiring AI Engineer | Data Scientist | Software Developer</h3>
+<h3 align="center">Aspiring AI Deep Learning Engineer | Software Developer</h3>
 
 <p align="center">
   <a href="https://github.com/farrukhunites" target="_blank">
