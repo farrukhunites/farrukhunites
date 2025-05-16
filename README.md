@@ -11,7 +11,7 @@
 ---
 
 🎓 **Computer Science Undergraduate** (Minor in Artificial Intelligence)  
-💼 **Software Engineer** @ [CouSync](https://www.linkedin.com/company/cousync/)  
+💼 **Software Engineer** @ [CouSync](https://cousync.tech/)  
 🧠 Passionate about **AI, Deep Learning, Software Engineering, and building intelligent systems**  
 📈 Looking to contribute to AI projects  
 📍 Currently based in **Jeddah, Saudi Arabia**
