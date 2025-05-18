@@ -39,7 +39,7 @@
 ### 🚀 Featured Projects
 
 - 📊 [**psx-application-ai**](https://github.com/farrukhunites/psx-application-ai) – AI-driven analysis for Pakistan Stock Exchange data using deep learning (LSTMs) and sentiment analysis techniques in future 
-- 🧩 [**psx-backend-application**](https://github.com/farrukhunites/psx-backend-application) – Backend for PSX AI app with APIs for stock data, watchlists, dashboard and potfolio visualization (Django + SQLite)  
+- 🧩 [**psx_backend_application**](https://github.com/farrukhunites/psx_backend_application) – Backend for PSX AI app with APIs for stock data, watchlists, dashboard and potfolio visualization (Django + SQLite)  
 - 😄 [**facial-emotion-recognition-cnn**](https://github.com/farrukhunites/facial-emotion-recognition-cnn) – Facial emotion detection using Convolutional Neural Networks on FER2013 dataset
 - 🧬 [**face-recognition-model-ai-attendance-application**](https://github.com/farrukhunites/face-recognition-model-ai-attendance-application) – Real-time face detection and recognition system using YOLO, FaceNet, and SVM for automated attendance tracking  
 - 🧠 [**langchain-poc**](https://github.com/farrukhunites/langchain-poc) – (Private) Upcoming! Proof of Concept for building Retrieval-Augmented Generation agents using LangChain and LLMs  
