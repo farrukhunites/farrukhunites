@@ -10,11 +10,11 @@
 
 ---
 
-🎓 **Building Solutions** For Businesses and SMEs 
+🎓 **Building Solutions** For Businesses and SMEs  
 💼 **Software Engineer** @ [CouSync](https://cousync.tech/)  
 🧠 Passionate about **AI, Deep Learning, Software Engineering, and building intelligent systems**  
-📈 Looking to contribute to AI projects  
-📍 Currently based in **Jeddah, Saudi Arabia**
+📈 Looking to contribute to **AI projects**  
+📍 Currently based in **Jeddah, Saudi Arabia**  
 
 ---
 
