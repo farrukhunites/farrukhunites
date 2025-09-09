@@ -10,7 +10,7 @@
 
 ---
 
-🎓 **Computer Science Undergraduate** (Minor in Artificial Intelligence)  
+🎓 **Building Custom AI based Solutions for Businesses** 
 💼 **Software Engineer** @ [CouSync](https://cousync.tech/)  
 🧠 Passionate about **AI, Deep Learning, Software Engineering, and building intelligent systems**  
 📈 Looking to contribute to AI projects  
